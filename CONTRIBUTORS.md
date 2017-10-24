@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Ales Jagric](https://github.com/OmegaModr)
+- Place: Slovenia
+- Bio: Systems Engineer
+- Github: [OmegaModr](https://github.com/OmegaModr)
